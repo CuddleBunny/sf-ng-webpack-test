@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "NgTest", "NgTest\NgTest.sfproj", "{B1CF9717-89BC-4A78-964D-A964F45B540A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgService", "NgService\NgService.csproj", "{2DE6BCC2-2B48-4DBE-A72E-E53032EC4248}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NgService", "NgService\NgService.csproj", "{2DE6BCC2-2B48-4DBE-A72E-E53032EC4248}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
